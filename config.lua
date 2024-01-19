@@ -4,11 +4,11 @@ Config.Locations = {
         coords = vector3(-344.67, -127.95, 39.01),
         job = "mechanic",
     },
-    ["lscustom-port1"] = {
+    ["lscustomport1"] = {
         coords = vector3(-215.4, -1317.53, 30.89),
         job = "mechanic",
     },
-    ["lscustom-sand1"] = {
+    ["lscustomsand1"] = {
         coords = vector3(-1145.65, -2005.65, 13.18),
         job = "mechanic",
     },
