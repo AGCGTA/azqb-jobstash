@@ -35,7 +35,8 @@ CreateThread(function()
                                 local job = player.PlayerData.job
                                 if job.name == Config.Locations[k].job then
                                     options = {
-                                        maxweight = 5000000,
+                                        maxweight = 10000000,
+                                        slots = 200,
                                     }
                                     TriggerServerEvent('inventory:server:OpenInventory', 'stash', k, options)
                                     TriggerEvent('inventory:client:SetCurrentStash', k)
