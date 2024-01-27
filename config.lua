@@ -1,11 +1,11 @@
 Config = {}
 Config.Locations = {
     ["bennys1"] = {
-        coords = vector3(-212.51, -1324.23, 31.30),
+        coords = vector3(-344.67, -127.95, 39.01),
         job = "mechanic",
     },
     ["lscustomport1"] = {
-        coords = vector3(-215.4, -1317.53, 30.89),
+        coords = vector3(-212.51, -1324.23, 31.30),
         job = "mechanic",
     },
     ["lscustomsand1"] = {
